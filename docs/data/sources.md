@@ -4,3 +4,9 @@
 - [https://universe.roboflow.com/harikayasam-ndgjr/smoke-detection-from-vehicles](https://universe.roboflow.com/harikayasam-ndgjr/smoke-detection-from-vehicles)
 - [https://universe.roboflow.com/alpha-ai-nwrrb/smoke-vehicles](https://universe.roboflow.com/alpha-ai-nwrrb/smoke-vehicles)
 - [https://universe.roboflow.com/pollution/pollution-v1](https://universe.roboflow.com/pollution/pollution-v1)
+
+## Cold-Mailing Previous Researchers
+## CCTV Sources
+- [ ] in talks with KTM CCTV
+- [ ] in talks with Dhulikhel CCTV
+- [ ] speak-up nepal
