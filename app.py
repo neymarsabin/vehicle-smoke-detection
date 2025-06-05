@@ -46,6 +46,3 @@ if uploaded_file:
         out.release()
         st.success("Detection complete!")
         st.video(str(out_path))
-
-
-
