@@ -7,7 +7,6 @@
 - YOLO(You Only look Once) is a fast and accurate object detection model widely used for detecting vehicles and smoke.
 - fine-tune it on your training data, ensuring dataset includes labeled images of vehicles and smoke under various conditions.
 
-
 ### Steps
 #### Detection
 - Use YOLOv5 or YOLOv8 for real-time detection of vehicles and smoke in each frame

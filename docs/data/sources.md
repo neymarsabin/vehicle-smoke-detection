@@ -7,6 +7,3 @@
 
 ## Cold-Mailing Previous Researchers
 ## CCTV Sources
-- [ ] in talks with KTM CCTV
-- [ ] in talks with Dhulikhel CCTV
-- [ ] speak-up nepal
