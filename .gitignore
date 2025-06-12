@@ -14,3 +14,4 @@
 /runs/**
 yolov8n.pt
 /model/training_phase_3/outputs/**
+/VSD-Sabin-Nepal.pdf
