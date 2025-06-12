@@ -1,3 +1,16 @@
 /datasets
 /test_set
 /outputs
+/model/training_phase/**
+/model/training_phase/**
+/model/training_phase/**
+/model/training_phase_2/**
+/videos/**
+/model/training_phase_3/old-train-test/**
+/model/training_phase_3/inputs/**
+/model/training_phase_3/zips-from-label-studio/**
+/model/training_phase_3/best.pt
+/model/training_phase_3/yolov8s.pt
+/runs/**
+yolov8n.pt
+/model/training_phase_3/outputs/**

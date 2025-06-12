@@ -1,0 +1,5 @@
+train: model/training_phase/images/train
+val: model/training_phase/images/val
+
+nc: 2
+names: ['smoky-vehicle', 'smoke']
